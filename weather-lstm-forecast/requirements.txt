@@ -1,0 +1,9 @@
+numpy>=1.26
+pandas>=2.1
+requests>=2.31
+matplotlib>=3.8
+statsmodels>=0.14
+torch>=2.2
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic>=2.6
